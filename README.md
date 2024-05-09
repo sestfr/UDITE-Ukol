@@ -2,4 +2,4 @@
 Ukol
 Vytvoreni vlastniho repository
 
-Test: propojeni repository 
+Test: propojeni repository: funguje
